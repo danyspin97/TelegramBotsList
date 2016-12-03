@@ -1,6 +1,7 @@
 # TelegramBotsList
 A list of all Telegram bots source hosted on github.
 All source will be listed by language in which the bots are written on.
+To have a complete list of telegram bots (without source) have a look at [@botlist](https://telegram.me/botlist).
 
 ### Go
  - [@StrangerBot](https://telegram.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
@@ -31,15 +32,23 @@ All source will be listed by language in which the bots are written on.
  - [@HTTPResponseBot](https://telegram.me/HTTPResponseBot) -> [Source](https://github.com/franci22/httpresponsebot) *Not working at the moment*
  - [@lennysbot](https://telegram.me/lennysbot) -> [Source](https://github.com/danog/lennysbot)
  - [@MyAddressBookBot](https://telegram.me/MyAddressBookBot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
+ - [@SimplePollBot](https://telegram.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
 
 ### Python
+ - [@ComedoresUGRbot](https://telegram.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
  - [@jh0ker_texbot](https://telegram.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
  - [@jh0ker_welcomebot](https://telegram.me/jh0ker_welcomebot) -> [Source](https://github.com/jh0ker/welcomebot)
+ - [@lmgtfy_bot](https://telegram.me/lmgtfy_bot) -> [Source](https://github.com/GabrielRF/telegram-lmgtfy_bot)
  - [@OrariTreniBot](https://telegram.me/OrariTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
  - [@sakubot](https://telegram.me/sakubot) -> [Source](https://github.com/luksireiku/polaris)
+ - [@SiteAlert_Bot](https://telegram.me/SiteAlert_Bot) -> [Source](https://github.com/ilteoood/SiteAlert-Python) *Not working at the moment*
  - [@TagAlertBot](https://telegram.me/TagAlertBot) -> [Source](https://github.com/pitasi/TagAlertBot)
  - [@ubervotebot](https://telegram.me/ubervotebot) -> [Source](https://github.com/haselkern/ubervotebot)
  - [@UnoBot](https://telegram.me/UnoBot) -> [Source](https://github.com/jh0ker/mau_mau_bot)
+ - [@UrlProBot](https://telegram.me/UrlProBot) -> [Source](https://github.com/GabrielRF/telegram-urlprobot)
+
+## Disclaimer
+All the bots listed here are not made by myself and i don't have any connection with the creators. Use them at your own risk.
 
 ### Contribute
 Feel free to add more bots link and source.
