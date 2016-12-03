@@ -2,7 +2,7 @@
 A list of all Telegram bots source hosted on github.
 All source will be listed by language in which the bots are written on.
 
-### C#
+### C# #
  - [@werewolfbot](https://telegram.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
 
 ### Go
