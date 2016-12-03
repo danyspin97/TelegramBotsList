@@ -2,6 +2,9 @@
 A list of all Telegram bots source hosted on github.
 All source will be listed by language in which the bots are written on.
 
+### C#
+ - [@werewolfbot](https://telegram.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
+
 ### Go
  - [@StrangerBot](https://telegram.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
 
@@ -15,7 +18,6 @@ All source will be listed by language in which the bots are written on.
  - [@LiveCoinBot](https://telegram.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
  - [@Rextester_bot](https://telegram.me/Rextester_bot) -> [Source](https://bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - [@SkimBot](https://telegram.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
- - [@werewolfbot](https://telegram.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
 
 ### Lua
  - [@GroupButler_Bot](https://telegram.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
