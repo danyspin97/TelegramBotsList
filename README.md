@@ -10,6 +10,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@werewolfbot](https://telegram.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
 
 ### Go
+ - [@GroupHub_Bot](https://telegram.me/GroupHub_Bot) -> [Source](https://github.com/livc/GroupHub_Bot)
  - [@StrangerBot](https://telegram.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
 
 ### Java
@@ -18,7 +19,8 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@userinfobot](https://telegram.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
 
 ### JavaScript
- - [@GeneralLoungBot](https://telegram.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
+ - [@GeneralLoungeBot](https://telegram.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
+ - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
  - [@LiveCoinBot](https://telegram.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
  - [@Rextester_bot](https://telegram.me/Rextester_bot) -> [Source](https://bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot)
