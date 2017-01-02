@@ -7,6 +7,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - HomeKeekerBot -> [Source](https://github.com/oscarcappa/HomeKeeper)
 
 ### C# #
+- JunBot -> [Source](https://github.com/SamueleLorefice/JunBot)
  - [@werewolfbot](https://telegram.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
 
 ### Go
@@ -26,6 +27,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot)
  - [@SkimBot](https://telegram.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://telegram.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
+ - [@WhatAnimeBot](https://telegram.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
 
 ### Lua
  - [@GroupButler_Bot](https://telegram.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
@@ -45,6 +47,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 
 ### Python
  - [@ComedoresUGRbot](https://telegram.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
+ - [@hitagibot](https://telegram.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
  - [@jh0ker_texbot](https://telegram.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
  - [@jh0ker_welcomebot](https://telegram.me/jh0ker_welcomebot) -> [Source](https://github.com/jh0ker/welcomebot)
  - [@lmgtfy_bot](https://telegram.me/lmgtfy_bot) -> [Source](https://github.com/GabrielRF/telegram-lmgtfy_bot)
