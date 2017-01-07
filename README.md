@@ -29,7 +29,6 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
  - [@arbeit_bot](https://t.me/arbeit_bot) -> [Source](https://github.com/arbeitbot/arbeitbot)
- - [@Check4ChangeAmazonBot]
 
 ### Lua
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
@@ -66,6 +65,9 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 
 ### Ruby
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
+ 
+### Bash
+ - [@Check4ChangeAmazonBot](https://t.me/Check4ChangeAmazonBot) -> [Source](https://github.com/iicc1/Check4ChangeAmazonBot)
 
 ## Disclaimer
 All the bots listed here are not made by myself and i don't have any connection with the creators. Use them at your own risk.
