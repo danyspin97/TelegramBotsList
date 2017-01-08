@@ -29,6 +29,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
  - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](https://bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - [@MessageStatBot](https://t.me/MessageStatBot) -> [Source](https://github.com/aaomidi/MessageStatBot) *Not working at the moment*
+ - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
 
 ### JavaScript
