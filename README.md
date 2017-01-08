@@ -55,16 +55,17 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@filtersbot](https://t.me/filtersbot) -> [Source](https://github.com/danog/filtersbot)
  - [@Giveaways_Bot](https://t.me/giveaways_bot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
  - [@HTTPResponseBot](https://t.me/HTTPResponseBot) -> [Source](https://github.com/franci22/httpresponsebot) *Not working at the moment*
- - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot) 
+ - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot)
  - [@lennysbot](https://t.me/lennysbot) -> [Source](https://github.com/danog/lennysbot)
  - [@MyAddressBookBot](https://t.me/MyAddressBookBot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
  - [@SimplePollBot](https://t.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
- 
+
 ### Python
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
  - [@hitagibot](https://t.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
  - [@jh0ker_texbot](https://t.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
  - [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot) -> [Source](https://github.com/jh0ker/welcomebot)
+ - [@League_of_Legends_bot](https://t.me/League_of_Legends_bot) -> [Source](https://github.com/i32ropie/lol)
  - [@lmgtfy_bot](https://t.me/lmgtfy_bot) -> [Source](https://github.com/GabrielRF/telegram-lmgtfy_bot)
  - [@myproxybot](https://t.me/proxybot) -> [Source](https://github.com/p-hash/proxybot)
  - [@OrariTreniBot](https://t.me/OrariTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
