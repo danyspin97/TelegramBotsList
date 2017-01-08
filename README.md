@@ -77,7 +77,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
 
 ## Disclaimer
-All the bots listed here are not made by myself and i don't have any connection with the creators. Use them at your own risk.
+All the bots listed here are not made by myself and I don't have any connection with the creators. Use them at your own risk.
 
 ### Contribute
 Feel free to add more bots links and sources by making a pull request or adding an issue.
