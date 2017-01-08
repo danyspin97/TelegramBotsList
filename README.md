@@ -23,16 +23,6 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
 
 ### JavaScript
- - [@arbeit_bot](https://t.me/arbeit_bot) -> [Source](https://github.com/arbeitbot/arbeitbot)
- - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
- - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
- - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
- - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](https://bitbucket.org/GingerPlusPlus/rextester-bot/src)
- - [@MessageStatBot](https://t.me/MessageStatBot) -> [Source](https://github.com/aaomidi/MessageStatBot) *Not working at the moment*
- - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
- - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
-
-### JavaScript
  - [@ArbeitBot](https://t.me/arbeitBot) -> [Source](https://github.com/arbeitbot/arbeitbot)
  - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
@@ -43,6 +33,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
  - [@TeleMMO_Bot](https://t.me/TeleMMO_Bot) -> [Source](https://github.com/MarcoWorms/telemmo)
+ - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
 
 ### Lua
