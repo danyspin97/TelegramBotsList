@@ -1,7 +1,7 @@
 # TelegramBotsList
 A list of all Telegram bots source hosted on github.
 All source will be listed by language in which the bots are written on.
-To have a complete list of telegram bots (without source) have a look at [@botlist](https://telegram.me/botlist).
+To have a complete list of telegram bots (without source) have a look at [@botlist](https://t.me/botlist).
 
 ### Bash
  - [@Check4ChangeAmazonBot](https://t.me/Check4ChangeAmazonBot) -> [Source](https://github.com/iicc1/Check4ChangeAmazonBot)
@@ -28,11 +28,20 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
  - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](https://bitbucket.org/GingerPlusPlus/rextester-bot/src)
+ - [@MessageStatBot](https://t.me/MessageStatBot) -> [Source](https://github.com/aaomidi/MessageStatBot) *Not working at the moment*
+ - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
+
+### JavaScript
+ - [@ArbeitBot](https://t.me/arbeitBot) -> [Source](https://github.com/arbeitbot/arbeitbot)
+ - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
+ - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
+ - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
+ - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot)
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
- 
+
 ### Lua
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
  - [@imandabot](https://t.me/imandabot) -> [Source](https://github.com/Imandaneshi/jack-telegram-bot)
@@ -40,7 +49,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@MokuBot](https://t.me/MokuBot) -> [Source](https://github.com/topkecleon/otouto/tree/master)
 
 ### php
- - [@Avalonbg_Bot](https://t.me/Avalonbg_Bot) -> [Source](https://github.com/Karho/avlnbot)
+ - [@Avalonbg_bot](https://t.me/Avalonbg_bot) -> [Source](https://github.com/Bluebear171/avlnbot)
  - [@BNoteBot](https://t.me/BNoteBot) -> [Source](https://github.com/franci22/BNoteBot)
  - [@CowSaysBot](https://t.me/CowSaysBot) -> [Source](https://github.com/danog/cowsaysbot)
  - [@filtersbot](https://t.me/filtersbot) -> [Source](https://github.com/danog/filtersbot)
@@ -50,8 +59,6 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@lennysbot](https://t.me/lennysbot) -> [Source](https://github.com/danog/lennysbot)
  - [@MyAddressBookBot](https://t.me/MyAddressBookBot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
  - [@SimplePollBot](https://t.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
-
-
  
 ### Python
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
@@ -70,9 +77,9 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 
 ### Ruby
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
- 
+
 ## Disclaimer
 All the bots listed here are not made by myself and i don't have any connection with the creators. Use them at your own risk.
 
 ### Contribute
-Feel free to add more bots link and source.
+Feel free to add more bots links and sources by making a pull request or adding an issue.
