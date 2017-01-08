@@ -20,7 +20,16 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Java
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
  - [@JsonDumpBot](https://t.me/JsonDumpBot) -> [Source](https://github.com/nadam/jsondumpbot)
+ - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
+
+### JavaScript
+ - [@arbeit_bot](https://t.me/arbeit_bot) -> [Source](https://github.com/arbeitbot/arbeitbot)
+ - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
+ - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
+ - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
+ - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](https://bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - [@MessageStatBot](https://t.me/MessageStatBot) -> [Source](https://github.com/aaomidi/MessageStatBot) *Not working at the moment*
+ - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
 
 ### JavaScript
@@ -60,6 +69,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@hitagibot](https://t.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
  - [@jh0ker_texbot](https://t.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
  - [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot) -> [Source](https://github.com/jh0ker/welcomebot)
+ - [@League_of_Legends_bot](https://t.me/League_of_Legends_bot) -> [Source](https://github.com/i32ropie/lol)
  - [@lmgtfy_bot](https://t.me/lmgtfy_bot) -> [Source](https://github.com/GabrielRF/telegram-lmgtfy_bot)
  - [@MatchPartyBot](https://t.me/MatchPartyBot) -> [Source](https://github.com/arthurdk/tinder-telegram-bot)
  - [@ModismBot](https://t.me/ModismBot) -> [Source](https://github.com/d-qoi/TelegramBots/tree/master/ModismBot)
