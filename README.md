@@ -23,6 +23,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
 
 ### JavaScript
+ - [@arbeit_bot](https://t.me/arbeit_bot) -> [Source](https://github.com/arbeitbot/arbeitbot)
  - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
@@ -31,8 +32,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
- - [@arbeit_bot](https://t.me/arbeit_bot) -> [Source](https://github.com/arbeitbot/arbeitbot)
-
+ 
 ### Lua
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
  - [@imandabot](https://t.me/imandabot) -> [Source](https://github.com/Imandaneshi/jack-telegram-bot)
@@ -40,16 +40,18 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@MokuBot](https://t.me/MokuBot) -> [Source](https://github.com/topkecleon/otouto/tree/master)
 
 ### php
+ - [@Avalonbg_Bot](https://t.me/Avalonbg_Bot) -> [Source](https://github.com/Karho/avlnbot)
  - [@BNoteBot](https://t.me/BNoteBot) -> [Source](https://github.com/franci22/BNoteBot)
  - [@CowSaysBot](https://t.me/CowSaysBot) -> [Source](https://github.com/danog/cowsaysbot)
  - [@filtersbot](https://t.me/filtersbot) -> [Source](https://github.com/danog/filtersbot)
  - [@Giveaways_Bot](https://t.me/giveaways_bot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
  - [@HTTPResponseBot](https://t.me/HTTPResponseBot) -> [Source](https://github.com/franci22/httpresponsebot) *Not working at the moment*
+ - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot) 
  - [@lennysbot](https://t.me/lennysbot) -> [Source](https://github.com/danog/lennysbot)
  - [@MyAddressBookBot](https://t.me/MyAddressBookBot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
  - [@SimplePollBot](https://t.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
- - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot)
- - [@Avalonbg_Bot](https://t.me/Avalonbg_Bot) -> [Source](https://github.com/Karho/avlnbot)
+
+
  
 ### Python
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
