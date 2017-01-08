@@ -4,7 +4,10 @@ All source will be listed by language in which the bots are written on.
 To have a complete list of telegram bots (without source) have a look at [@botlist](https://telegram.me/botlist).
 
 ### Bash
+ - [@Check4ChangeAmazonBot](https://t.me/Check4ChangeAmazonBot) -> [Source](https://github.com/iicc1/Check4ChangeAmazonBot)
  - HomeKeekerBot -> [Source](https://github.com/oscarcappa/HomeKeeper)
+ - TgBash -> [Source](https://github.com/iicc1/TgBash)
+ - WarnBot -> [Source](https://github.com/iicc1/WarnBot_Telegram-Bot)
 
 ### C# #
  - JunBot -> [Source](https://github.com/SamueleLorefice/JunBot)
@@ -66,9 +69,6 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Ruby
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
  
-### Bash
- - [@Check4ChangeAmazonBot](https://t.me/Check4ChangeAmazonBot) -> [Source](https://github.com/iicc1/Check4ChangeAmazonBot)
-
 ## Disclaimer
 All the bots listed here are not made by myself and i don't have any connection with the creators. Use them at your own risk.
 
