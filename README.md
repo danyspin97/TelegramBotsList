@@ -20,6 +20,14 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Java
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
  - [@JsonDumpBot](https://t.me/JsonDumpBot) -> [Source](https://github.com/nadam/jsondumpbot)
+ - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
+
+### JavaScript
+ - [@arbeit_bot](https://t.me/arbeit_bot) -> [Source](https://github.com/arbeitbot/arbeitbot)
+ - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
+ - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
+ - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
+ - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](https://bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - [@MessageStatBot](https://t.me/MessageStatBot) -> [Source](https://github.com/aaomidi/MessageStatBot) *Not working at the moment*
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
 
@@ -47,11 +55,11 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@filtersbot](https://t.me/filtersbot) -> [Source](https://github.com/danog/filtersbot)
  - [@Giveaways_Bot](https://t.me/giveaways_bot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
  - [@HTTPResponseBot](https://t.me/HTTPResponseBot) -> [Source](https://github.com/franci22/httpresponsebot) *Not working at the moment*
- - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot)
+ - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot) 
  - [@lennysbot](https://t.me/lennysbot) -> [Source](https://github.com/danog/lennysbot)
  - [@MyAddressBookBot](https://t.me/MyAddressBookBot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
  - [@SimplePollBot](https://t.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
-
+ 
 ### Python
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
  - [@hitagibot](https://t.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
