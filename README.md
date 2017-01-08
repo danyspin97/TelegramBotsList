@@ -27,11 +27,13 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@ArbeitBot](https://t.me/arbeitBot) -> [Source](https://github.com/arbeitbot/arbeitbot)
  - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
+ - [@LibreTaxi_Bot](https://t.me/LibreTaxi_Bot) -> [Source](https://github.com/ro31337/libretaxi)
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
  - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot)
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
+ - [@TeleMMO_Bot](https://t.me/TeleMMO_Bot) -> [Source](https://github.com/MarcoWorms/telemmo)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
 
 ### Lua
@@ -54,12 +56,15 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 
 ### Python
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
+ - FeedbackBot -> [Source](https://github.com/d-qoi/TelegramBots/tree/master/FeedbackBot)
  - [@hitagibot](https://t.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
  - [@jh0ker_texbot](https://t.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
  - [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot) -> [Source](https://github.com/jh0ker/welcomebot)
  - [@lmgtfy_bot](https://t.me/lmgtfy_bot) -> [Source](https://github.com/GabrielRF/telegram-lmgtfy_bot)
+ - [@MatchPartyBot](https://t.me/MatchPartyBot) -> [Source](https://github.com/arthurdk/tinder-telegram-bot)
+ - [@ModismBot](https://t.me/ModismBot) -> [Source](https://github.com/d-qoi/TelegramBots/tree/master/ModismBot)
  - [@myproxybot](https://t.me/proxybot) -> [Source](https://github.com/p-hash/proxybot)
- - [@OrariTreniBot](https://t.me/OrariTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
+ - [@OrarioTreniBot](https://t.me/OrarioTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
  - [@sakubot](https://t.me/sakubot) -> [Source](https://github.com/luksireiku/polaris)
  - [@SiteAlert_Bot](https://t.me/SiteAlert_Bot) -> [Source](https://github.com/ilteoood/SiteAlert-Python) *Not working at the moment*
  - [@TagAlertBot](https://t.me/TagAlertBot) -> [Source](https://github.com/pitasi/TagAlertBot)
