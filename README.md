@@ -1,6 +1,6 @@
 # TelegramBotsList
-A list of all Telegram bots source hosted on github.
-All source will be listed by language in which the bots are written on.
+A list of Telegram bots with open source code in alphabetical order.
+All sources will be listed by language in which the bots are written on.
 To have a complete list of telegram bots (without source) have a look at [@botlist](https://t.me/botlist).
 
 ### Bash
