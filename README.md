@@ -17,9 +17,6 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@GroupHub_Bot](https://t.me/GroupHub_Bot) -> [Source](https://github.com/livc/GroupHub_Bot)
  - [@StrangerBot](https://t.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
  
-### HTML5
- - [@microgamesbot](https://telegram.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames)
-
 ### Java
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
  - [@JsonDumpBot](https://t.me/JsonDumpBot) -> [Source](https://github.com/nadam/jsondumpbot)
@@ -32,6 +29,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
  - [@LibreTaxi_Bot](https://t.me/LibreTaxi_Bot) -> [Source](https://github.com/ro31337/libretaxi)
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
+ - [@microgamesbot](https://t.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames)
  - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot)
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
@@ -40,8 +38,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@TeleMMO_Bot](https://t.me/TeleMMO_Bot) -> [Source](https://github.com/MarcoWorms/telemmo)
  - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
  - [@uncover_bot](https://t.me/uncover_bot) -> [Source](https://uncover.now.sh/_src)
- - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
-
+ - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot) 
 ### Lua
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
  - [@imandabot](https://t.me/imandabot) -> [Source](https://github.com/Imandaneshi/jack-telegram-bot)
