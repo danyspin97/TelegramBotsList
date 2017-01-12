@@ -1,6 +1,6 @@
 # TelegramBotsList
-A list of all Telegram bots source hosted on github.
-All source will be listed by language in which the bots are written on.
+A list of Telegram bots with open source code in alphabetical order.
+All sources will be listed by language in which the bots are written on.
 To have a complete list of telegram bots (without source) have a look at [@botlist](https://t.me/botlist).
 
 ### Bash
@@ -16,7 +16,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Go
  - [@GroupHub_Bot](https://t.me/GroupHub_Bot) -> [Source](https://github.com/livc/GroupHub_Bot)
  - [@StrangerBot](https://t.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
-
+ 
 ### Java
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
  - [@JsonDumpBot](https://t.me/JsonDumpBot) -> [Source](https://github.com/nadam/jsondumpbot)
@@ -24,22 +24,21 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 
 ### JavaScript
  - [@ArbeitBot](https://t.me/arbeitBot) -> [Source](https://github.com/arbeitbot/arbeitbot)
+ - [@epub2mobi_bot](https://t.me/epub2mobi_bot) -> [Source](https://epub2mobi.now.sh/_src)
  - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
- - [@epub2mobi_bot](https://telegram.me/epub2mobi_bot) -> [Source](https://epub2mobi.now.sh/_src)
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
  - [@LibreTaxi_Bot](https://t.me/LibreTaxi_Bot) -> [Source](https://github.com/ro31337/libretaxi)
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
- - [@microgamesbot](https://telegram.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames)
+ - [@microgamesbot](https://t.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames)
  - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot)
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
- - [@TeleImporterBot](https://telegram.me/TeleImporterBot) -> [Source](https://github.com/telegraf/telegraph-import-bot)
+ - [@TeleImporterBot](https://t.me/TeleImporterBot) -> [Source](https://github.com/telegraf/telegraph-import-bot)
  - [@TeleMMO_Bot](https://t.me/TeleMMO_Bot) -> [Source](https://github.com/MarcoWorms/telemmo)
  - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
- - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
- - [@uncover_bot](https://telegram.me/uncover_bot) -> [Source](https://uncover.now.sh/_src)
- 
+ - [@uncover_bot](https://t.me/uncover_bot) -> [Source](https://uncover.now.sh/_src)
+ - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot) 
 ### Lua
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
  - [@imandabot](https://t.me/imandabot) -> [Source](https://github.com/Imandaneshi/jack-telegram-bot)
