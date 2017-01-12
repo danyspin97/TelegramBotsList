@@ -11,11 +11,18 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 
 ### C# #
  - JunBot -> [Source](https://github.com/SamueleLorefice/JunBot)
+ - [@tthemebot](https://t.me/tthemebot) -> [Source](https://github.com/GreyWolfDev/Telegram-Theme-Bot)
  - [@werewolfbot](https://t.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
 
 ### Go
  - [@GroupHub_Bot](https://t.me/GroupHub_Bot) -> [Source](https://github.com/livc/GroupHub_Bot)
  - [@StrangerBot](https://t.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
+
+### HTML5 Games
+ - [2048](https://t.me/awesomebot) -> [Source](https://github.com/gabrielecirulli/2048)
+ - [Flappy Bird](https://t.me/awesomebot) -> [Source](https://github.com/nebez/floppybird)
+ - [Hextris](https://t.me/awesomebot) -> [Source](https://github.com/Hextris/hextris)
+ - [Jumper Frog](https://t.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames/tree/master/public/games/jumper_frog)
  
 ### Java
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
@@ -39,6 +46,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
  - [@uncover_bot](https://t.me/uncover_bot) -> [Source](https://uncover.now.sh/_src)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot) 
+
 ### Lua
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
  - [@imandabot](https://t.me/imandabot) -> [Source](https://github.com/Imandaneshi/jack-telegram-bot)
