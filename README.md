@@ -77,7 +77,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@EvilInsultGeneratorBot](https://t.me/EvilInsultGeneratorBot) -> [Source](https://github.com/EvilInsultGenerator/telegram-bot)
  - [@filtersbot](https://t.me/filtersbot) -> [Source](https://github.com/danog/filtersbot)
  - [@Giveaways_Bot](https://t.me/giveaways_bot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
- - [@HTTPResponseBot](https://t.me/HTTPResponseBot) -> [Source](https://github.com/franci22/httpresponsebot) *Not working at the moment*
+ - [@HTTPResponseBot](https://t.me/HTTPResponseBot) -> [Source](https://github.com/franci22/httpresponsebot) 
  - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot)
  - [@lennysbot](https://t.me/lennysbot) -> [Source](https://github.com/danog/lennysbot)
  - [@MyAddressBookBot](https://t.me/MyAddressBookBot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
