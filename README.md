@@ -36,6 +36,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
  - [@LibreTaxi_Bot](https://t.me/LibreTaxi_Bot) -> [Source](https://github.com/ro31337/libretaxi)
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
+ - [@metagon_bot](https://t.me/metagon_bot) -> [Source](https://github.com/austinhuang0131/metagon/wiki)
  - [@microgamesbot](https://t.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames)
  - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot)
@@ -80,6 +81,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@sakubot](https://t.me/sakubot) -> [Source](https://github.com/luksireiku/polaris)
  - [@SiteAlert_Bot](https://t.me/SiteAlert_Bot) -> [Source](https://github.com/ilteoood/SiteAlert-Python) *Not working at the moment*
  - [@TagAlertBot](https://t.me/TagAlertBot) -> [Source](https://github.com/pitasi/TagAlertBot)
+ - [@thesecrethitlerbot](https://t.me/thesecrethitlerbot) -> [Source](https://github.com/julianschritt/secreth_telegrambot)
  - [@ubervotebot](https://t.me/ubervotebot) -> [Source](https://github.com/haselkern/ubervotebot)
  - [@UnoBot](https://t.me/UnoBot) -> [Source](https://github.com/jh0ker/mau_mau_bot)
  - [@UrlProBot](https://t.me/UrlProBot) -> [Source](https://github.com/GabrielRF/telegram-urlprobot)
