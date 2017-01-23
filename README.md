@@ -63,11 +63,12 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@WrdyBot](https://t.me/wrdybot) -> [Source](https://github.com/ashyashy/wrdy)
 
 ### Lua
- - DBTeamV2 -> [Source](https://github.com/Josepdal/DBTeamV2) *Not working at the moment*
+ - DBTeamV2 -> [Source](https://github.com/Josepdal/DBTeamV2) *Not working at the moment*  *Tg-Cli*
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
  - [@GroupThorBot](https://t.me/GroupThorBot) -> [Source](https://github.com/kamikazechaser/GroupThorBot)
  - [@imandabot](https://t.me/imandabot) -> [Source](https://github.com/Imandaneshi/jack-telegram-bot)
  - [@mattatabot](https://t.me/mattatabot) -> [Source](https://github.com/matthewhesketh/mattata)
+ - [@merbot](https://t.me/merbot) -> [Source](https://github.com/rizaumami/merbot) *Tg-Cli*
  - [@MokuBot](https://t.me/MokuBot) -> [Source](https://github.com/topkecleon/otouto/tree/master)
 
 ### php
@@ -91,6 +92,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
  - FeedbackBot -> [Source](https://github.com/d-qoi/TelegramBots/tree/master/FeedbackBot)
  - [@hitagibot](https://t.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
+ - InstaBot -> [Source](https://github.com/LevPasha/instabot.py)
  - [@jh0ker_texbot](https://t.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
  - [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot) -> [Source](https://github.com/jh0ker/welcomebot)
  - [@League_of_Legends_bot](https://t.me/League_of_Legends_bot) -> [Source](https://github.com/i32ropie/lol)
