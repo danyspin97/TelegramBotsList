@@ -17,6 +17,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Go
  - [@GroupHub_Bot](https://t.me/GroupHub_Bot) -> [Source](https://github.com/livc/GroupHub_Bot)
  - [@StrangerBot](https://t.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
+ - [@UnicodeInfoBot](https://t.me/UnicodeInfoBot) -> [Source](https://github.com/JuanPotato/UnicodeInfoBot)
 
 ### HTML5 Games
  - [2048](https://t.me/awesomebot) -> [Source](https://github.com/gabrielecirulli/2048)
@@ -27,11 +28,14 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Java
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
  - [@JsonDumpBot](https://t.me/JsonDumpBot) -> [Source](https://github.com/nadam/jsondumpbot)
+ - [@topkek_bot](https://t.me/topkek_bot) -> [Source](https://github.com/bo0tzz/TopKekBot)
+ - [@typerobot](https://t.me/typerobot) -> [Source](https://github.com/A7F/FancyBot)
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
 
 ### JavaScript
  - [@ArbeitBot](https://t.me/arbeitBot) -> [Source](https://github.com/arbeitbot/arbeitbot)
  - [@epub2mobi_bot](https://t.me/epub2mobi_bot) -> [Source](https://epub2mobi.now.sh/_src)
+ - [@fromcommandlinebot](https://t.me/fromcommandlinebot) -> [Source](https://github.com/juanpabloaj/fromcommandlinebot)
  - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot)
  - [@LibreTaxi_Bot](https://t.me/LibreTaxi_Bot) -> [Source](https://github.com/ro31337/libretaxi)
@@ -66,6 +70,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot)
  - [@lennysbot](https://t.me/lennysbot) -> [Source](https://github.com/danog/lennysbot)
  - [@MyAddressBookBot](https://t.me/MyAddressBookBot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
+ - [@rfilesbot](https://t.me/rfilesbot) -> [Source](https://github.com/radyakaze/rfiles)
  - [@SimplePollBot](https://t.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
 
 ### Python
