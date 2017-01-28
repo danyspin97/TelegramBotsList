@@ -21,6 +21,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@GroupHub_Bot](https://t.me/GroupHub_Bot) -> [Source](https://github.com/livc/GroupHub_Bot)
  - [@o3o_bot](https://t.me/o3o_bot) -> [Source](https://github.com/kamikat/o3o_bot)
  - [@StrangerBot](https://t.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
+ - [@UnicodeInfoBot](https://t.me/UnicodeInfoBot) -> [Source](https://github.com/JuanPotato/UnicodeInfoBot)
 
 ### HTML5 Games
  - [2048](https://t.me/awesomebot) -> [Source](https://github.com/gabrielecirulli/2048)
@@ -31,6 +32,8 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Java
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
  - [@JsonDumpBot](https://t.me/JsonDumpBot) -> [Source](https://github.com/nadam/jsondumpbot)
+ - [@topkek_bot](https://t.me/topkek_bot) -> [Source](https://github.com/bo0tzz/TopKekBot)
+ - [@typerobot](https://t.me/typerobot) -> [Source](https://github.com/A7F/FancyBot)
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
 
 ### JavaScript
