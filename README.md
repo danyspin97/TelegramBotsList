@@ -69,7 +69,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - DBTeamV2 -> [Source](https://github.com/Josepdal/DBTeamV2) *Tg-Cli*
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
  - [@GroupThorBot](https://t.me/GroupThorBot) -> [Source](https://github.com/kamikazechaser/GroupThorBot)
- - [@imandabot](https://t.me/imandabot) -> [Source](https://github.com/Imandaneshi/jack-telegram-bot)
+ - [@jackbot](https://t.me/jackbot) -> [Source](https://github.com/Imandaneshi/jack-telegram-bot)
  - [@mattatabot](https://t.me/mattatabot) -> [Source](https://github.com/matthewhesketh/mattata)
  - [@merbot](https://t.me/merbot) -> [Source](https://github.com/rizaumami/merbot) *Tg-Cli*
  - [@MokuBot](https://t.me/MokuBot) -> [Source](https://github.com/topkecleon/otouto/tree/master)
