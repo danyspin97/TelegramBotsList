@@ -59,9 +59,11 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot) *Not working at the moment*
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
+ - Telegram Bot Support -> [Source](https://github.com/bostrot/telegram-support-bot)
  - [@TeleImporterBot](https://t.me/TeleImporterBot) -> [Source](https://github.com/telegraf/telegraph-import-bot)
  - [@TeleMMO_Bot](https://t.me/TeleMMO_Bot) -> [Source](https://github.com/MarcoWorms/telemmo)
  - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
+ - [@thestats_bot](https://t.me/thestats_bot) -> [Source](https://github.com/poeti8/thestats_bot)
  - [@uncover_bot](https://t.me/uncover_bot) -> [Source](https://uncover.now.sh/_src)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
  - [@WrdyBot](https://t.me/wrdybot) -> [Source](https://github.com/ashyashy/wrdy)
