@@ -100,6 +100,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@BlackJackBot](https://t.me/BlackJackBot) -> [Source](https://github.com/d-Rickyy-b/Python-BlackJackBot)
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
  - FeedbackBot -> [Source](https://github.com/d-qoi/TelegramBots/tree/master/FeedbackBot)
+ - [@daysandbox_bot](https://t.me/daysandbox_bot) -> [Source](https://github.com/lorien/daysandbox_bot)
  - [@hitagibot](https://t.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
  - Instabot.py -> [Source](https://github.com/LevPasha/instabot.py)
  - [@jh0ker_texbot](https://t.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
@@ -111,6 +112,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@ModismBot](https://t.me/ModismBot) -> [Source](https://github.com/d-qoi/TelegramBots/tree/master/ModismBot)
  - [@MowCounter_Bot](http://t.me/mowcounter_bot) -> [Source](https://github.com/qdot/mowcounter-telegram-bot)
  - [@myproxybot](https://t.me/proxybot) -> [Source](https://github.com/p-hash/proxybot)
+ - [@nosticker_bot](https://t.me/nosticker_bot) -> [Source](https://github.com/lorien/nosticker_bot) 
  - [@RandTalkBot](https://t.me/RandTalkBot) -> [Source](https://github.com/quasiyoke/RandTalkBot)
  - [@OrarioTreniBot](https://t.me/OrarioTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
  - [@sakubot](https://t.me/sakubot) -> [Source](https://github.com/luksireiku/polaris)
@@ -121,7 +123,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@ubervotebot](https://t.me/ubervotebot) -> [Source](https://github.com/haselkern/ubervotebot)
  - [@UnoBot](https://t.me/UnoBot) -> [Source](https://github.com/jh0ker/mau_mau_bot)
  - [@UrlProBot](https://t.me/UrlProBot) -> [Source](https://github.com/GabrielRF/telegram-urlprobot)
- - [@nosticker_bot](https://t.me/nosticker_bot) -> [Source](https://github.com/lorien/nosticker_bot)
+ 
 
 ### Ruby
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
