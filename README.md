@@ -71,6 +71,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@uncover_bot](https://t.me/uncover_bot) -> [Source](https://uncover.now.sh/_src)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
  - [@WrdyBot](https://t.me/wrdybot) -> [Source](https://github.com/ashyashy/wrdy)
+ - [@Ver.bot](https://t.me/VbotVbot) -> [Source](https://github.com/RPing/Ver.bot)
 
 ### Lua
  - DBTeamV2 -> [Source](https://github.com/Josepdal/DBTeamV2) *Tg-Cli*
