@@ -103,6 +103,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@UrbanBot](https://t.me/UrbanBot) -> [Source](https://github.com/DmitryNek/urban-dictionary-telegram-bot)
 
 ### Python
+ - [@BPaste_bot](https://t.me/bpaste_bot) -> [Source](https://github.com/mostafaasadi/bpastebot)
  - [@BismillahBot](https://t.me/BismillahBot) -> [Source](https://github.com/rahiel/BismillahBot)
  - [@BlackJackBot](https://t.me/BlackJackBot) -> [Source](https://github.com/d-Rickyy-b/Python-BlackJackBot)
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
@@ -122,6 +123,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@myproxybot](https://t.me/proxybot) -> [Source](https://github.com/p-hash/proxybot)
  - [@nosticker_bot](https://t.me/nosticker_bot) -> [Source](https://github.com/lorien/nosticker_bot)
  - [@RandTalkBot](https://t.me/RandTalkBot) -> [Source](https://github.com/quasiyoke/RandTalkBot)
+  - [@Retwitgrambot]https://t.me/retwitgrambot) -> [Source](https://github.com/mostafaasadi/retwitgram)
  - [@OrarioTreniBot](https://t.me/OrarioTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
  - [@sakubot](https://t.me/sakubot) -> [Source](https://github.com/luksireiku/polaris)
  - [@ShortURLsBot](https://t.me/ShortURLsBot) -> [Source](https://github.com/MarcoBuster/ShortURLsBot)
