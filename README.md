@@ -2,45 +2,46 @@
 A list of Telegram bots with open source code in alphabetical order.
 All sources will be listed by language in which the bots are written on.
 To have a complete list of telegram bots (without source) have a look at [@botlist](https://t.me/botlist).
-
+ 
 ### Bash
  - [@Check4ChangeAmazonBot](https://t.me/Check4ChangeAmazonBot) -> [Source](https://github.com/iicc1/Check4ChangeAmazonBot)
  - HomeKeekerBot -> [Source](https://github.com/oscarcappa/HomeKeeper)
  - [@groupagreebot](https://t.me/groupagreebot) -> [Source](https://github.com/wjclub/telegram-bot-groupagree)
  - TgBash -> [Source](https://github.com/iicc1/TgBash)
  - WarnBot -> [Source](https://github.com/iicc1/WarnBot_Telegram-Bot)
-
+ 
 ### C# #
  - JunBot -> [Source](https://github.com/SamueleLorefice/JunBot)
  - [@tthemebot](https://t.me/tthemebot) -> [Source](https://github.com/GreyWolfDev/Telegram-Theme-Bot)
  - [@werewolfbot](https://t.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
-
+ 
 ### CoffeeScript
  - [@InstantAnswerBot](https://t.me/instantAnswerBot) -> [Source](https://github.com/rajanand02/TelegramDuckDuckGoBot)
-
+ 
 ### Crystal
  - [@deutscher_bot](https://t.me/deutscher_bot) -> [Source](https://github.com/greyblake/deutscher_bot)
-
+ 
 ### Go
  - [@GroupHub_Bot](https://t.me/GroupHub_Bot) -> [Source](https://github.com/livc/GroupHub_Bot)
+ - [@MyPackBot](https://t.me/MyPackBot) -> [Source](https://github.com/toby3d/MyPackBot)
  - [@o3o_bot](https://t.me/o3o_bot) -> [Source](https://github.com/kamikat/o3o_bot)
  - RemoteControlBot -> [Source](https://github.com/meinside/telegram-bot-remotecontrol)
  - [@StrangerBot](https://t.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
  - [@UnicodeInfoBot](https://t.me/UnicodeInfoBot) -> [Source](https://github.com/JuanPotato/UnicodeInfoBot)
-
+ 
 ### HTML5 Games
  - [2048](https://t.me/awesomebot) -> [Source](https://github.com/gabrielecirulli/2048)
  - [Flappy Bird](https://t.me/awesomebot) -> [Source](https://github.com/nebez/floppybird)
  - [Hextris](https://t.me/awesomebot) -> [Source](https://github.com/Hextris/hextris)
  - [Jumper Frog](https://t.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames/tree/master/public/games/jumper_frog)
-
+ 
 ### Java
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
  - [@JsonDumpBot](https://t.me/JsonDumpBot) -> [Source](https://github.com/nadam/jsondumpbot)
  - [@topkek_bot](https://t.me/topkek_bot) -> [Source](https://github.com/bo0tzz/TopKekBot)
  - [@typerobot](https://t.me/typerobot) -> [Source](https://github.com/A7F/FancyBot)
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
-
+ 
 ### JavaScript
  - [@AndykrasBot](https://t.me/andykrasbot) -> [Source](https://github.com/andykras/telegram-reminder-bot)
  - [@ArfHashtagBot](https://t.me/ArfHashtagBot) -> [Source](https://github.com/mecitsem/Arf-HashtagBot)
@@ -63,6 +64,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot) *Not working at the moment*
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
+ - [@Tarchivebot](https://t.me/Tarchivebot) -> [Source](https://github.com/PROGRADE-Tech/Tarchivebot)
  - Telegram Bot Support -> [Source](https://github.com/bostrot/telegram-support-bot)
  - [@TeleImporterBot](https://t.me/TeleImporterBot) -> [Source](https://github.com/telegraf/telegraph-import-bot)
  - [@TeleMMO_Bot](https://t.me/TeleMMO_Bot) -> [Source](https://github.com/MarcoWorms/telemmo)
@@ -72,8 +74,8 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
  - [@WrdyBot](https://t.me/wrdybot) -> [Source](https://github.com/ashyashy/wrdy)
  - [@Ver.bot](https://t.me/VbotVbot) -> [Source](https://github.com/RPing/Ver.bot)
- - [@RollDiceBot](https://t.me/RollDiceBot) -> https://github.com/mguellsegarra/diceroll_telegram_bot
-
+ - [@RollDiceBot](https://t.me/RollDiceBot) -> [Source](https://github.com/mguellsegarra/diceroll_telegram_bot)
+ 
 ### Lua
  - DBTeamV2 -> [Source](https://github.com/Josepdal/DBTeamV2) *Tg-Cli*
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
@@ -82,7 +84,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@mattatabot](https://t.me/mattatabot) -> [Source](https://github.com/matthewhesketh/mattata)
  - [@merbot](https://t.me/merbot) -> [Source](https://github.com/rizaumami/merbot) *Tg-Cli*
  - [@MokuBot](https://t.me/MokuBot) -> [Source](https://github.com/topkecleon/otouto/tree/master)
-
+ 
 ### php
  - [@Avalonbg_bot](https://t.me/Avalonbg_bot) -> [Source](https://github.com/Bluebear171/avlnbot)
  - [@BNoteBot](https://t.me/BNoteBot) -> [Source](https://github.com/franci22/BNoteBot)
@@ -101,8 +103,9 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@rfilesbot](https://t.me/rfilesbot) -> [Source](https://github.com/radyakaze/rfiles)
  - [@SimplePollBot](https://t.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
  - [@UrbanBot](https://t.me/UrbanBot) -> [Source](https://github.com/DmitryNek/urban-dictionary-telegram-bot)
-
+ 
 ### Python
+ - [@aigis_bot](https://t.me/aigis_bot) -> [Source](https://github.com/OctoNezd/OctoBot)
  - [@BPaste_bot](https://t.me/bpaste_bot) -> [Source](https://github.com/mostafaasadi/bpastebot)
  - [@BismillahBot](https://t.me/BismillahBot) -> [Source](https://github.com/rahiel/BismillahBot)
  - [@BlackJackBot](https://t.me/BlackJackBot) -> [Source](https://github.com/d-Rickyy-b/Python-BlackJackBot)
@@ -122,24 +125,26 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@MowCounter_Bot](http://t.me/mowcounter_bot) -> [Source](https://github.com/qdot/mowcounter-telegram-bot)
  - [@myproxybot](https://t.me/proxybot) -> [Source](https://github.com/p-hash/proxybot)
  - [@nosticker_bot](https://t.me/nosticker_bot) -> [Source](https://github.com/lorien/nosticker_bot)
+ - [@OrarioTreniBot](https://t.me/OrarioTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
  - [@RandTalkBot](https://t.me/RandTalkBot) -> [Source](https://github.com/quasiyoke/RandTalkBot)
   - [@Retwitgrambot](https://t.me/retwitgrambot) -> [Source](https://github.com/mostafaasadi/retwitgram)
- - [@OrarioTreniBot](https://t.me/OrarioTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
  - [@sakubot](https://t.me/sakubot) -> [Source](https://github.com/luksireiku/polaris)
  - [@ShortURLsBot](https://t.me/ShortURLsBot) -> [Source](https://github.com/MarcoBuster/ShortURLsBot)
  - [@SiteAlert_Bot](https://t.me/SiteAlert_Bot) -> [Source](https://github.com/ilteoood/SiteAlert-Python)
  - [@TagAlertBot](https://t.me/TagAlertBot) -> [Source](https://github.com/pitasi/TagAlertBot)
+ - [@tgchessbot](https://t.me/tgchessbot) -> [Source](https://github.com/cxjdavin/tgchessbot)
  - [@thesecrethitlerbot](https://t.me/thesecrethitlerbot) -> [Source](https://github.com/julianschritt/secreth_telegrambot)
  - [@TopSupergroupsBot](https://t.me/topsupergroupsbot) -> [Source](https://github.com/91DarioDev/topsupergroupsbot)
  - [@ubervotebot](https://t.me/ubervotebot) -> [Source](https://github.com/haselkern/ubervotebot)
  - [@UnoBot](https://t.me/UnoBot) -> [Source](https://github.com/jh0ker/mau_mau_bot)
  - [@UrlProBot](https://t.me/UrlProBot) -> [Source](https://github.com/GabrielRF/telegram-urlprobot)
-
+ 
 ### Ruby
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
-
+ 
 ## Disclaimer
 All the bots listed here are not made by myself and I don't have any connection with the creators. Use them at your own risk.
-
+ 
 ### Contribute
 Feel free to add more bots links and sources by making a pull request or adding an issue.
+ 
