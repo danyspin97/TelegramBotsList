@@ -133,6 +133,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@SiteAlert_Bot](https://t.me/SiteAlert_Bot) -> [Source](https://github.com/ilteoood/SiteAlert-Python)
  - [@TagAlertBot](https://t.me/TagAlertBot) -> [Source](https://github.com/pitasi/TagAlertBot)
  - [@tgchessbot](https://t.me/tgchessbot) -> [Source](https://github.com/cxjdavin/tgchessbot)
+ - [@TGWhatAppBot](https://t.me/WhatAppStatus) -> [Source](https://github.com/SpEcHiDe/wat-bridge)
  - [@thesecrethitlerbot](https://t.me/thesecrethitlerbot) -> [Source](https://github.com/julianschritt/secreth_telegrambot)
  - [@TopSupergroupsBot](https://t.me/topsupergroupsbot) -> [Source](https://github.com/91DarioDev/topsupergroupsbot)
  - [@ubervotebot](https://t.me/ubervotebot) -> [Source](https://github.com/haselkern/ubervotebot)
