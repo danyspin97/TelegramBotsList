@@ -60,6 +60,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - NetiquetteBot -> [Source](https://github.com/ngVenezuela/netiquette) *Not working at the moment*
  - [@ReadermanBot](https://t.me/ReadermanBot) -> [Source](https://github.com/mooyoul/telegrambot-readerman)
  - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](bitbucket.org/GingerPlusPlus/rextester-bot/src)
+ - [@rTars2_bot](https://t.me/rTars2_bot) -> [Source](https://github.com/Telegram-Bot-Node/Nikoro)
  - [@RoundaBot](https://t.me/RoundaBot) -> [Source](https://github.com/lubien/roundabot-telegram)
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot) *Not working at the moment*
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
