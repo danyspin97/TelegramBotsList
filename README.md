@@ -143,7 +143,10 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  
 ### Ruby
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
- 
+
+### Rust
+ - [@TelereadsBot](https://t.me/TelereadsBot) -> [Source](https://github.com/harababurel/telereads)
+
 ## Disclaimer
 All the bots listed here are not made by myself and I don't have any connection with the creators. Use them at your own risk.
  
