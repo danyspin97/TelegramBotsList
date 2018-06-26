@@ -96,6 +96,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@Giveaways_Bot](https://t.me/giveaways_bot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
  - [@HTTPResponseBot](https://t.me/HTTPResponseBot) -> [Source](https://github.com/franci22/httpresponsebot)
  - [@InlineGamesBot](https://t.me/InlineGamesBot) -> [Source](https://github.com/jacklul/inlinegamesbot)
+ - [@Insulterbot](https://t.me/Insulterbot)-> [Source](https://github.com/infinite4evr/insulterbot)
  - [@LinuxMonitorBot](https://t.me/LinuxMonitorBot) -> [Source](https://github.com/angelinux-slack/LinuxServerMonitorTelegramBot)
  - [@lennysbot](https://t.me/lennysbot) -> [Source](https://github.com/danog/lennysbot)
  - [@MyAddressBookBot](https://t.me/MyAddressBookBot) -> [Source](https://github.com/DanySpin97/GiveawaysBot)
@@ -103,6 +104,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@PimOnlineBot](https://t.me/PimOnlineBot) -> [Source](https://github.com/RandomReaper/OnlineBot)
  - [@rfilesbot](https://t.me/rfilesbot) -> [Source](https://github.com/radyakaze/rfiles)
  - [@SimplePollBot](https://t.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
+ - [@specialdaytodaybot](https://t.me/Specialdaytodaybot) -> [Source](https://github.com/infinite4evr/specialdaytodaybot)
  - [@UrbanBot](https://t.me/UrbanBot) -> [Source](https://github.com/DmitryNek/urban-dictionary-telegram-bot)
  
 ### Python
