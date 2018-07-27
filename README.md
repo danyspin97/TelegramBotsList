@@ -149,6 +149,9 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Rust
  - [@TelereadsBot](https://t.me/TelereadsBot) -> [Source](https://github.com/harababurel/telereads)
 
+### Elixir
+ - [@GuitarBot](https://t.me/GuitarBot) -> [Source](https://github.com/dariodf/GuitarBotex)
+
 ## Disclaimer
 All the bots listed here are not made by myself and I don't have any connection with the creators. Use them at your own risk.
  
