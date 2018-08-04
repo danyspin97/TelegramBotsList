@@ -28,6 +28,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - RemoteControlBot -> [Source](https://github.com/meinside/telegram-bot-remotecontrol)
  - [@StrangerBot](https://t.me/strangerbot) -> [Source](https://github.com/Machiel/strangerbot)
  - [@UnicodeInfoBot](https://t.me/UnicodeInfoBot) -> [Source](https://github.com/JuanPotato/UnicodeInfoBot)
+ - Telegram-Rss-Bot -> [Source](https://github.com/0x111/telegram-rss-bot)
  
 ### HTML5 Games
  - [2048](https://t.me/awesomebot) -> [Source](https://github.com/gabrielecirulli/2048)
