@@ -9,6 +9,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@groupagreebot](https://t.me/groupagreebot) -> [Source](https://github.com/wjclub/telegram-bot-groupagree)
  - TgBash -> [Source](https://github.com/iicc1/TgBash)
  - WarnBot -> [Source](https://github.com/iicc1/WarnBot_Telegram-Bot)
+ - [@Wmakerbot](https://t.me/wmakerbot) -> [Source](https://github.com/eyaadh/Watermark-Bash-Telegram-Bot)
  
 ### C# #
  - JunBot -> [Source](https://github.com/SamueleLorefice/JunBot)
