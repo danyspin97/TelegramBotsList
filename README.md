@@ -7,6 +7,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@Check4ChangeAmazonBot](https://t.me/Check4ChangeAmazonBot) -> [Source](https://github.com/iicc1/Check4ChangeAmazonBot)
  - HomeKeekerBot -> [Source](https://github.com/oscarcappa/HomeKeeper)
  - [@groupagreebot](https://t.me/groupagreebot) -> [Source](https://github.com/wjclub/telegram-bot-groupagree)
+ - BladeBTC -> [Source](https://github.com/nicelife90/BladeBTC)
  - TgBash -> [Source](https://github.com/iicc1/TgBash)
  - WarnBot -> [Source](https://github.com/iicc1/WarnBot_Telegram-Bot)
  - [@Wmakerbot](https://t.me/wmakerbot) -> [Source](https://github.com/eyaadh/Watermark-Bash-Telegram-Bot)
