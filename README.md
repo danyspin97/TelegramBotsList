@@ -43,6 +43,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@topkek_bot](https://t.me/topkek_bot) -> [Source](https://github.com/bo0tzz/TopKekBot)
  - [@typerobot](https://t.me/typerobot) -> [Source](https://github.com/A7F/FancyBot)
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
+ - [@PikabuRobot](https://t.me/pikaburobot) -> [Source](https://github.com/futurobot/PikabuRobot)
  
 ### JavaScript
  - [@AndykrasBot](https://t.me/andykrasbot) -> [Source](https://github.com/andykras/telegram-reminder-bot)
