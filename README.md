@@ -12,6 +12,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@Wmakerbot](https://t.me/wmakerbot) -> [Source](https://github.com/eyaadh/Watermark-Bash-Telegram-Bot)
  
 ### C# #
+ - JenkinsJobManager -> [Source](https://github.com/AlexanderPro/TelegramBotJenkinsJobManager)
  - JunBot -> [Source](https://github.com/SamueleLorefice/JunBot)
  - [@tthemebot](https://t.me/tthemebot) -> [Source](https://github.com/GreyWolfDev/Telegram-Theme-Bot)
  - [@werewolfbot](https://t.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
