@@ -56,6 +56,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@LibreTaxi_Bot](https://t.me/LibreTaxi_Bot) -> [Source](https://github.com/ro31337/libretaxi)
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
  - [@LockBot](https://t.me/UrbanBot) -> [Source](https://github.com/DmitryNek/urban-dictionary-telegram-bot)
+ - MathNewtonBot -> [Source}(https://github.com/aunyks/newton-api)
  - [@maxysongbot](https://t.me/maxysongbot) -> [Source](https://github.com/MaxySpark/MaxySongBot)
  - [@metagon_bot](https://t.me/metagon_bot) -> [Source](https://github.com/austinhuang0131/metagon/wiki)
  - [@microgamesbot](https://t.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames)
@@ -111,6 +112,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  
 ### Python
  - [@aigis_bot](https://t.me/aigis_bot) -> [Source](https://github.com/OctoNezd/OctoBot)
+ - [@AnyDLbot](https://t.me/AnyDLbot) -> [Source](https://github.com/SpEcHiDe/AnyDLBot)
  - [@BPaste_bot](https://t.me/bpaste_bot) -> [Source](https://github.com/mostafaasadi/bpastebot)
  - [@BismillahBot](https://t.me/BismillahBot) -> [Source](https://github.com/rahiel/BismillahBot)
  - [@BlackJackBot](https://t.me/BlackJackBot) -> [Source](https://github.com/d-Rickyy-b/Python-BlackJackBot)
