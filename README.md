@@ -156,6 +156,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@m00dbot](https://t.me/m00dbot) -> [Source](https://github.com/dizballanze/m00dbot)
  
 ### Ruby
+ - [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) -> [Source](https://github.com/Zhivch1k/AndysTicTacToe)
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
 
 ### Rust
