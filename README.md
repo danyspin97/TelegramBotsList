@@ -136,6 +136,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@OrarioTreniBot](https://t.me/OrarioTreniBot) -> [Source](https://github.com/MarcoBuster/OrarioTreniBot)
  - [@RandTalkBot](https://t.me/RandTalkBot) -> [Source](https://github.com/quasiyoke/RandTalkBot)
  - Reddit2TelegramBot -> [Source](https://github.com/xr09/reddit-to-telegram-bot)
+ - resource-scheduling-bot -> [Source](https://github.com/dagomezma/resource-scheduling-telegram-bot)
  - [@Retwitgrambot](https://t.me/retwitgrambot) -> [Source](https://github.com/mostafaasadi/retwitgram)
  - [@roolsbot](https://t.me/roolsbot) -> [Source](https://github.com/python-telegram-bot/rules-bot)
  - [@sakubot](https://t.me/sakubot) -> [Source](https://github.com/luksireiku/polaris)
