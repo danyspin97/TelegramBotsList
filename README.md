@@ -23,7 +23,10 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  
 ### Crystal
  - [@deutscher_bot](https://t.me/deutscher_bot) -> [Source](https://github.com/greyblake/deutscher_bot)
- 
+
+### F#
+ - emulsion -> [Source](https://github.com/codingteam/emulsion)
+
 ### Go
  - [@GroupHub_Bot](https://t.me/GroupHub_Bot) -> [Source](https://github.com/livc/GroupHub_Bot)
  - [@MyPackBot](https://t.me/MyPackBot) -> [Source](https://github.com/toby3d/MyPackBot)
