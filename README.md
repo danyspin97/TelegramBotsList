@@ -75,6 +75,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@TeleImporterBot](https://t.me/TeleImporterBot) -> [Source](https://github.com/telegraf/telegraph-import-bot)
  - [@TeleMMO_Bot](https://t.me/TeleMMO_Bot) -> [Source](https://github.com/MarcoWorms/telemmo)
  - [@TechBinderBot](https://t.me/techbinderbot) -> [Source](https://github.com/alexandercerutti/techbinderbot)
+ - [@tg-sticker-convert-bot](https://t.me/sticker_convert_bot) -> [Source](https://github.com/mkg20001/tg-sticker-convert-bot)
  - [@thestats_bot](https://t.me/thestats_bot) -> [Source](https://github.com/poeti8/thestats_bot)
  - [@uncover_bot](https://t.me/uncover_bot) -> [Source](https://uncover.now.sh/_src)
  - [@WhatAnimeBot](https://t.me/WhatAnimeBot) -> [Source](https://github.com/soruly/whatanime.ga-telegram-bot)
