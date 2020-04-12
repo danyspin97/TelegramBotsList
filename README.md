@@ -56,6 +56,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@ArbeitBot](https://t.me/arbeitBot) -> [Source](https://github.com/arbeitbot/arbeitbot)
  - [@epub2mobi_bot](https://t.me/epub2mobi_bot) -> [Source](https://epub2mobi.now.sh/_src)
  - [@FromCommandLineBot](https://t.me/fromcommandlinebot) -> [Source](https://github.com/juanpabloaj/fromcommandlinebot)
+ - [@fStikBot](https://t.me/fStikBot) -> [Source](https://github.com/LyoSU/fStikBot)
  - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
  - [@Google_calendar_bot](https://t.me/google_calendar_bot) -> [Source](https://github.com/demian85/google-calendar-telegram-bot)
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot) *Not working at the moment*
@@ -66,6 +67,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@metagon_bot](https://t.me/metagon_bot) -> [Source](https://github.com/austinhuang0131/metagon/wiki)
  - [@microgamesbot](https://t.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames)
  - NetiquetteBot -> [Source](https://github.com/ngVenezuela/netiquette) *Not working at the moment*
+ - [@QuotLyBot](https://t.me/QuotLyBot) -> [Source](https://github.com/LyoSU/quote-bot)
  - [@ReadermanBot](https://t.me/ReadermanBot) -> [Source](https://github.com/mooyoul/telegrambot-readerman)
  - [@Rextester_bot](https://t.me/Rextester_bot) -> [Source](bitbucket.org/GingerPlusPlus/rextester-bot/src)
  - [@rTars2_bot](https://t.me/rTars2_bot) -> [Source](https://github.com/Telegram-Bot-Node/Nikoro)
