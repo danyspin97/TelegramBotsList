@@ -161,7 +161,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@UnifiedBan_bot](https://t.me/unifiedban_bot) -> [Source](https://github.com/unified-ban)
  - [@UrlProBot](https://t.me/UrlProBot) -> [Source](https://github.com/GabrielRF/telegram-urlprobot)
  - [@m00dbot](https://t.me/m00dbot) -> [Source](https://github.com/dizballanze/m00dbot)
- - [@devspace_brobot](https://t.me/devspace_brobot) -> [Source](https://github.com/alias-rahil/CSI-BroBot.git/)
+ - [@devspace_brobot](https://telegram.me/devspace_brobot) -> [Source](https://github.com/alias-rahil/CSI-BroBot.git/)
  
 ### Ruby
  - [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) -> [Source](https://github.com/Zhivch1k/AndysTicTacToe)
