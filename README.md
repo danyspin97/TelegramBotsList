@@ -46,6 +46,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@ChatBridgeBot](https://t.me/ChatBridgeBot) -> [Source](https://github.com/nadam/chatbridgebot)
  - [@JsonDumpBot](https://t.me/JsonDumpBot) -> [Source](https://github.com/nadam/jsondumpbot)
  - [@topkek_bot](https://t.me/topkek_bot) -> [Source](https://github.com/bo0tzz/TopKekBot)
+ - [@TrashEmail_bot](https://t.me/trashemail_bot) -> [Source](https://github.com/TrashEmail/TrashEmail)
  - [@typerobot](https://t.me/typerobot) -> [Source](https://github.com/A7F/FancyBot)
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
  - [@PikabuRobot](https://t.me/pikaburobot) -> [Source](https://github.com/futurobot/PikabuRobot)
