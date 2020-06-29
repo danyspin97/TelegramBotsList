@@ -60,6 +60,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@fStikBot](https://t.me/fStikBot) -> [Source](https://github.com/LyoSU/fStikBot)
  - [@GeneralLoungeBot](https://t.me/generalloungebot) -> [Source](https://github.com/6697/secretlounge)
  - [@Google_calendar_bot](https://t.me/google_calendar_bot) -> [Source](https://github.com/demian85/google-calendar-telegram-bot)
+ - [@Google_itBot](https://t.me/Google_itBot) -> [Source](https://github.com/Edgar-P-yan/google-it-telegram-bot)
  - Hashtag-bot -> [Source](https://github.com/6697/hashtag-bot) *Not working at the moment*
  - [@LibreTaxi_Bot](https://t.me/LibreTaxi_Bot) -> [Source](https://github.com/ro31337/libretaxi)
  - [@LiveCoinBot](https://t.me/LiveCoinBot) -> [Source](https://github.com/kamikazechaser/LiveCoinBot)
@@ -88,7 +89,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@WrdyBot](https://t.me/wrdybot) -> [Source](https://github.com/ashyashy/wrdy)
  - [@Ver.bot](https://t.me/VbotVbot) -> [Source](https://github.com/RPing/Ver.bot)
  - [@RollDiceBot](https://t.me/RollDiceBot) -> [Source](https://github.com/mguellsegarra/diceroll_telegram_bot)
- 
+
 ### Lua
  - DBTeamV2 -> [Source](https://github.com/Josepdal/DBTeamV2) *Tg-Cli*
  - [@GroupButler_Bot](https://t.me/GroupButler_Bot) -> [Source](https://github.com/RememberTheAir/GroupButler)
