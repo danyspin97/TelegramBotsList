@@ -126,8 +126,9 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@BismillahBot](https://t.me/BismillahBot) -> [Source](https://github.com/rahiel/BismillahBot)
  - [@BlackJackBot](https://t.me/BlackJackBot) -> [Source](https://github.com/d-Rickyy-b/Python-BlackJackBot)
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
- - FeedbackBot -> [Source](https://github.com/d-qoi/TelegramBots/tree/master/FeedbackBot)
  - [@daysandbox_bot](https://t.me/daysandbox_bot) -> [Source](https://github.com/lorien/daysandbox_bot)
+ - FeedbackBot -> [Source](https://github.com/d-qoi/TelegramBots/tree/master/FeedbackBot)
+ - [@filmresourcebot](https://t.me/filmresoucrebot) -> [Source](https://github.com/flofriday/filmresourcebot)
  - [@ForwardsCoverBot](https://t.me/ForwardsCoverBot) -> [Source](https://github.com/91DarioDev/ForwardsCoverBot)
  - [@hitagibot](https://t.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
  - Instabot.py -> [Source](https://github.com/LevPasha/instabot.py)
@@ -164,6 +165,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@UrlProBot](https://t.me/UrlProBot) -> [Source](https://github.com/GabrielRF/telegram-urlprobot)
  - [@m00dbot](https://t.me/m00dbot) -> [Source](https://github.com/dizballanze/m00dbot)
  - [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) -> [Source](https://github.com/Amaimersion/yandex-disk-telegram-bot)
+ - [@YouTube Data Bot](https://t.me/youtube_data_bot) -> [Source](https://github.com/flofriday/youtube-data)
  
 ### Ruby
  - [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) -> [Source](https://github.com/Zhivch1k/AndysTicTacToe)
