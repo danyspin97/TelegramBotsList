@@ -123,6 +123,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
 ### Python
  - [@aigis_bot](https://t.me/aigis_bot) -> [Source](https://github.com/OctoNezd/OctoBot)
  - [@BPaste_bot](https://t.me/bpaste_bot) -> [Source](https://github.com/mostafaasadi/bpastebot)
+ - [@SvDataScience_bot](https://t.me/svdatascience_bot) -> [Source](https://github.com/maheshthedev/DataScience_Bot)
  - [@BismillahBot](https://t.me/BismillahBot) -> [Source](https://github.com/rahiel/BismillahBot)
  - [@BlackJackBot](https://t.me/BlackJackBot) -> [Source](https://github.com/d-Rickyy-b/Python-BlackJackBot)
  - [@ComedoresUGRbot](https://t.me/ComedoresUGRbot) -> [Source](https://github.com/alejandrocq/ComedoresUGRbot)
