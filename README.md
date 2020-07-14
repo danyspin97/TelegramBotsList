@@ -133,6 +133,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - Instabot.py -> [Source](https://github.com/LevPasha/instabot.py)
  - [@jh0ker_texbot](https://t.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
  - [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot) -> [Source](https://github.com/jh0ker/welcomebot)
+ - [@join_captcha_bot](https://t.me/join_captcha_bot) -> [Source](https://github.com/J-Rios/TLG_JoinCaptchaBot)
  - [@League_of_Legends_bot](https://t.me/League_of_Legends_bot) -> [Source](https://github.com/i32ropie/lol)
  - [@LexicoBot](https://t.me/LexicoBot) -> [Source](https://github.com/Suyash458/Wordbot)
  - [@lmgtfy_bot](https://t.me/lmgtfy_bot) -> [Source](https://github.com/GabrielRF/telegram-lmgtfy_bot)
