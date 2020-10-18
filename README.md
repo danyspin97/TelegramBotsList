@@ -149,6 +149,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@Retwitgrambot](https://t.me/retwitgrambot) -> [Source](https://github.com/mostafaasadi/retwitgram)
  - [@roolsbot](https://t.me/roolsbot) -> [Source](https://github.com/python-telegram-bot/rules-bot)
  - [@sakubot](https://t.me/sakubot) -> [Source](https://github.com/luksireiku/polaris)
+ - [@sgchessbot](https://t.me/sgchessbot) -> [Source](https://github.com/noelmathewisaac/SG-Chess-Bot)
  - [@ShortURLsBot](https://t.me/ShortURLsBot) -> [Source](https://github.com/MarcoBuster/ShortURLsBot)
  - [@SiteAlert_Bot](https://t.me/SiteAlert_Bot) -> [Source](https://github.com/ilteoood/SiteAlert-Python)
  - [@TagAlertBot](https://t.me/TagAlertBot) -> [Source](https://github.com/pitasi/TagAlertBot)
