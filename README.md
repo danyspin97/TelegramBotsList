@@ -68,6 +68,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@maxysongbot](https://t.me/maxysongbot) -> [Source](https://github.com/MaxySpark/MaxySongBot)
  - [@metagon_bot](https://t.me/metagon_bot) -> [Source](https://github.com/austinhuang0131/metagon/wiki)
  - [@microgamesbot](https://t.me/microgamesbot) -> [Source](https://github.com/telegraf/microgames)
+ - MonitorBot -> [Source](https://github.com/inigochoa/monitorbot)
  - NetiquetteBot -> [Source](https://github.com/ngVenezuela/netiquette) *Not working at the moment*
  - [@QuotLyBot](https://t.me/QuotLyBot) -> [Source](https://github.com/LyoSU/quote-bot)
  - [@ReadermanBot](https://t.me/ReadermanBot) -> [Source](https://github.com/mooyoul/telegrambot-readerman)
