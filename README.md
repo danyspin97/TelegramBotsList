@@ -170,6 +170,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@UrlProBot](https://t.me/UrlProBot) -> [Source](https://github.com/GabrielRF/telegram-urlprobot)
  - [@m00dbot](https://t.me/m00dbot) -> [Source](https://github.com/dizballanze/m00dbot)
  - [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) -> [Source](https://github.com/Amaimersion/yandex-disk-telegram-bot)
+ - [@vigobusbot](https://t.me/vigobusbot) -> [Source](https://github.com/David-Lor/VigoBus-TelegramBot)
  - [@MasquerBot](https://t.me/MasquerBot) -> [Source](https://github.com/ra101/MasquerBot)
  
 ### Ruby
