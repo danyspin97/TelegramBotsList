@@ -94,6 +94,10 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@WrdyBot](https://t.me/wrdybot) -> [Source](https://github.com/ashyashy/wrdy)
  - [@Ver.bot](https://t.me/VbotVbot) -> [Source](https://github.com/RPing/Ver.bot)
  - [@RollDiceBot](https://t.me/RollDiceBot) -> [Source](https://github.com/mguellsegarra/diceroll_telegram_bot)
+ - WordGameBot -> [Source](https://github.com/Lucifer25x/telegram-bots/tree/main/simple-word-game)
+ - YoutubeBot -> [Source](https://github.com/Lucifer25x/telegram-bots/tree/main/youtube-bot)
+ - Secure Message -> [Source](https://github.com/Lucifer25x/telegram-bots/tree/main/secureMessage)
+ - MilyoncuBot -> [Source](https://github.com/Lucifer25x/telegram-bots/tree/main/milyoncu-bot)
 
 ### Lua
  - DBTeamV2 -> [Source](https://github.com/Josepdal/DBTeamV2) *Tg-Cli*
@@ -175,6 +179,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@vigobusbot](https://t.me/vigobusbot) -> [Source](https://github.com/David-Lor/VigoBus-TelegramBot)
  - [@MasquerBot](https://t.me/MasquerBot) -> [Source](https://github.com/ra101/MasquerBot)
  - [@CodingMan_ptt_beauty_bot](https://t.me/CodingMan_ptt_beauty_bot) -> [Source](https://github.com/PttCodingMan/telegram_beauty_bot)
+ - PasswordStrengthCheck -> [Source](https://github.com/Lucifer25x/telegram-bots/tree/main/password-strength)
  
 ### Ruby
  - [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) -> [Source](https://github.com/Zhivch1k/AndysTicTacToe)
