@@ -82,6 +82,8 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot) *Not working at the moment*
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
+ - [@Stock_exchange_updates_bot](https://t.me/stock_exchange_updates) -> [Source](https://github.com/automated-bots/Stock-Index-Bot)
+ - [@crypto_alert_updates_bot](https://t.me/crypto_exchange_updates) -> [Source](https://github.com/automated-bots/Crypto-Bot)
  - [@Tarchivebot](https://t.me/Tarchivebot) -> [Source](https://github.com/PROGRADE-Tech/Tarchivebot)
  - Telegram Bot Support -> [Source](https://github.com/bostrot/telegram-support-bot)
  - [@TeleImporterBot](https://t.me/TeleImporterBot) -> [Source](https://github.com/telegraf/telegraph-import-bot)
