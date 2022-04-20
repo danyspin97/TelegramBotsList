@@ -59,6 +59,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@AndykrasBot](https://t.me/andykrasbot) -> [Source](https://github.com/andykras/telegram-reminder-bot)
  - [@ArfHashtagBot](https://t.me/ArfHashtagBot) -> [Source](https://github.com/mecitsem/Arf-HashtagBot)
  - [@ArbeitBot](https://t.me/arbeitBot) -> [Source](https://github.com/arbeitbot/arbeitbot)
+ - [@Crypto_alert_updates_bot](https://t.me/crypto_exchange_updates) -> [Source](https://github.com/automated-bots/Crypto-Bot)
  - [@epub2mobi_bot](https://t.me/epub2mobi_bot) -> [Source](https://epub2mobi.now.sh/_src)
  - [@FromCommandLineBot](https://t.me/fromcommandlinebot) -> [Source](https://github.com/juanpabloaj/fromcommandlinebot)
  - [@fStikBot](https://t.me/fStikBot) -> [Source](https://github.com/LyoSU/fStikBot)
@@ -82,6 +83,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot) *Not working at the moment*
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
+ - [@Stock_exchange_updates_bot](https://t.me/stock_exchange_updates) -> [Source](https://github.com/automated-bots/Stock-Index-Bot)
  - [@Tarchivebot](https://t.me/Tarchivebot) -> [Source](https://github.com/PROGRADE-Tech/Tarchivebot)
  - Telegram Bot Support -> [Source](https://github.com/bostrot/telegram-support-bot)
  - [@TeleImporterBot](https://t.me/TeleImporterBot) -> [Source](https://github.com/telegraf/telegraph-import-bot)
