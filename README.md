@@ -165,6 +165,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - Telegram-Kraken-Bot -> [Source](https://github.com/Endogen/Telegram-Kraken-Bot)
  - [@trade_ogre_bot](https://t.me/trade_ogre_bot) -> [Source](https://github.com/Endogen/Telegram-TradeOgre-Bot)
  - [@tgchessbot](https://t.me/tgchessbot) -> [Source](https://github.com/cxjdavin/tgchessbot)
+ - TGCopyBot -> [Source](https://github.com/radinshayanfar/TGCopyBot)
  - [@TGWhatAppBot](https://t.me/WhatAppStatus) -> [Source](https://github.com/SpEcHiDe/wat-bridge)
  - [@thesecrethitlerbot](https://t.me/thesecrethitlerbot) -> [Source](https://github.com/julianschritt/secreth_telegrambot)
  - [@TopSupergroupsBot](https://t.me/topsupergroupsbot) -> [Source](https://github.com/91DarioDev/topsupergroupsbot)
