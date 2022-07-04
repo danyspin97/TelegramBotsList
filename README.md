@@ -123,6 +123,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@ProfesorOak_bot](https://t.me/ProfesorOak_bot) -> [Source](https://github.com/duhow/ProfesorOak)
  - [@PimOnlineBot](https://t.me/PimOnlineBot) -> [Source](https://github.com/RandomReaper/OnlineBot)
  - [@rfilesbot](https://t.me/rfilesbot) -> [Source](https://github.com/radyakaze/rfiles)
+ - RJBot -> [Source](https://github.com/radinshayanfar/RJBot)
  - [@SimplePollBot](https://t.me/SimplePollBot) -> [Source](https://github.com/kolar/telegram-poll-bot)
  - [@specialdaytodaybot](https://t.me/Specialdaytodaybot) -> [Source](https://github.com/infinite4evr/specialdaytodaybot)
  - [@UrbanBot](https://t.me/UrbanBot) -> [Source](https://github.com/DmitryNek/urban-dictionary-telegram-bot)
