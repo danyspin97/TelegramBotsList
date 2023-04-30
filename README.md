@@ -51,7 +51,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@typerobot](https://t.me/typerobot) -> [Source](https://github.com/A7F/FancyBot)
  - [@userinfobot](https://t.me/userinfobot) -> [Source](https://github.com/nadam/userinfobot)
  - [@PikabuRobot](https://t.me/pikaburobot) -> [Source](https://github.com/futurobot/PikabuRobot)
- - [@StickerifyImageBot](https://t.me/StickerifyImageBot) -> [Source](https://github.com/rob93c/Stickerify)
+ - [@StickerifyImageBot](https://t.me/StickerifyImageBot) -> [Source](https://github.com/Stickerifier/Stickerify)
 
 ### Kotlin
  - [@secure_prize_bot](https://t.me/secure_prize_bot) -> [Source](https://github.com/y9san9/prizebot)
