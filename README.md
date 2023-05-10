@@ -141,6 +141,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@daysandbox_bot](https://t.me/daysandbox_bot) -> [Source](https://github.com/lorien/daysandbox_bot)
  - [@ForwardsCoverBot](https://t.me/ForwardsCoverBot) -> [Source](https://github.com/91DarioDev/ForwardsCoverBot)
  - [@hitagibot](https://t.me/hitagibot) -> [Source](https://github.com/77616c6964/hitagibot)
+ - [@hentai_diffusion_bot](https://t.me/hentai_diffusion_bot) -> [Source](https://github.com/player2I0/hentaidiffusionbot)
  - Instabot.py -> [Source](https://github.com/LevPasha/instabot.py)
  - [@jh0ker_texbot](https://t.me/jh0ker_texbot) -> [Source](https://github.com/jh0ker/texbot)
  - [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot) -> [Source](https://github.com/jh0ker/welcomebot)
