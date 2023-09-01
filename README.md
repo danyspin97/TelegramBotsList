@@ -83,6 +83,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@rTars2_bot](https://t.me/rTars2_bot) -> [Source](https://github.com/Telegram-Bot-Node/Nikoro)
  - [@RoundaBot](https://t.me/RoundaBot) -> [Source](https://github.com/lubien/roundabot-telegram)
  - ServerCheckBot -> [Source](https://github.com/kamikazechaser/ServerBot) *Not working at the moment*
+ - [@Scrypte_bot](https://t.me/scrypte_bot) -> [Source](https://github.com/Excalizan/Scrypte)
  - [@SkimBot](https://t.me/skimbot) -> [Source](https://github.com/kamikazechaser/SkimBot)
  - [@Svgo_bot](https://t.me/Svgo_bot) -> [Source](https://github.com/svg/svgo)
  - [@Stock_exchange_updates_bot](https://t.me/stock_exchange_updates) -> [Source](https://github.com/automated-bots/Stock-Index-Bot)
