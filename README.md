@@ -184,6 +184,8 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@CodingMan_ptt_beauty_bot](https://t.me/CodingMan_ptt_beauty_bot) -> [Source](https://github.com/PttCodingMan/telegram_beauty_bot)
  - google bard telegram bot -> [Source](https://github.com/1999AZZAR/bard-powered-telegram-bot)
  - [wikipedia telegram bot](https://t.me/aiko_nakamura_bot) -> [Source](https://github.com/1999AZZAR/wikipedia-powered-telegram-bot)
+ - Inline Genius Lyrics Searcher -> [Source](https://github.com/krystlepalace/genius-lyrics-bot)
+ - CharacterAI Telegram Bot -> [Source](https://github.com/krystlepalace/characterai-telegram-bot)
  
 ### Ruby
  - [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) -> [Source](https://github.com/Zhivch1k/AndysTicTacToe)
