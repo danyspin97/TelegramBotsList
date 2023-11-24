@@ -25,7 +25,6 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@deutscher_bot](https://t.me/deutscher_bot) -> [Source](https://github.com/greyblake/deutscher_bot)
  - Private Parlor XT -> [Source](https://github.com/Private-Parlor/Private-Parlor-XT)
 
-
 ### F#
  - emulsion -> [Source](https://github.com/codingteam/emulsion)
 
